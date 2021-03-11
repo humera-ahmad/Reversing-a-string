@@ -1,6 +1,5 @@
-This program implements reverse of a string using immutable variables in Scala.
+**Reversing a String**
 
-#Recursion is used in order to avoid the use of mutable variables
 
 To run this program, follow the steps given below:
 

@@ -8,11 +8,11 @@ To run this program, follow the steps given below:
 
 2. Open terminal and redirect to "revString"
 
-3. run: sbt compile
+3.$sbt compile
 #once compiled successfully
 
-4. run: sbt run
+4.$sbt test
 
-5. Enter the string you want to reverse
+For checking coverage: sbt coverageReport
 
-#wohoo the string is reversed successfully!! ^_^
+For checking style: sbt scalastyle

@@ -5,7 +5,7 @@ To run this program, follow the steps given below:
 
 1. Download the repo and unzip the folder
 
-2. Open terminal and redirect to "revString"
+2. Open terminal and redirect to "ReverseString"
 
 3.$sbt compile
 #once compiled successfully
